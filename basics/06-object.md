@@ -239,7 +239,7 @@ console.log(numbers.sum);
 
 ![](https://i.imgur.com/fWkED8a.png)
 
-우리는 `numbers.sum()` 을 한 것이 아니라 `number.sum` 을 조회했을 뿐인데, 함수가 실행되고 그 결과값이 출력되었습니다.
+우리는 `numbers.sum()` 을 한 것이 아니라 `numbers.sum` 을 조회했을 뿐인데, 함수가 실행되고 그 결과값이 출력되었습니다.
 
 이런식으로 Getter 함수는 특정 값을 조회 할 때 우리가 설정한 함수로 연산된 값을 반환합니다.
 
